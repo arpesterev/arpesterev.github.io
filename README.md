@@ -2,6 +2,8 @@
 
 Source for a bilingual personal website built with Next.js 14, React, TypeScript and Tailwind CSS. It includes work, education, skills and contact sections.
 
+For code examples, see [selected public projects](PROJECTS.md).
+
 ## Development
 
 Use the checked-in npm lockfile:
